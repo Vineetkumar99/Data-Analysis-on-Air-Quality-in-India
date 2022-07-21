@@ -23,6 +23,8 @@ Amaravati Guwahati Patna Chandigarh Delhi Ahmedabad Gurugram Jorapokhar Bengalur
 - **AQI Values in different cities over the different years**
 ![AQI Values in different cities over the different years](https://user-images.githubusercontent.com/76897778/180144165-afd55bcc-e017-4c19-909a-ff715c94d774.png)
 
+- **Top 10 highest NO(Nitric Oxide) Cities**
+![Top 10 Highest NO(Nitric Oxide cities)](https://user-images.githubusercontent.com/76897778/180145265-461268dd-2ca3-4af7-94a8-d40405690b2a.png)
 
 
 
