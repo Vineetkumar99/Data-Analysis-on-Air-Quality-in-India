@@ -14,6 +14,14 @@ Amaravati Guwahati Patna Chandigarh Delhi Ahmedabad Gurugram Jorapokhar Bengalur
 
 
 ## Finding Visualization
+**Top 10 Lowest AQI Citis**
+![Top 10 lowest AQI City](https://user-images.githubusercontent.com/76897778/180143877-e4ec2a88-bef8-4a06-9ab2-a070bbb384d1.png)
+
+**Top 10 Highest AQI Cities**
+![Top 10 highest AQI Cities](https://user-images.githubusercontent.com/76897778/180144004-4fb216fd-a32d-40bd-87de-7a8286f11439.png)
+
+**AQI Values in different cities over the different years**
+![AQI Values in different cities over the different years](https://user-images.githubusercontent.com/76897778/180144165-afd55bcc-e017-4c19-909a-ff715c94d774.png)
 
 
 
